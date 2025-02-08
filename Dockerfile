@@ -1,4 +1,4 @@
-FROM ruby:3.1
+FROM ruby:3.1.6
 
 ARG WORKATO_SDK_VERSION
 
